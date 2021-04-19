@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Matres\source\repos\priklad3B\priklad3B\main.cpp(35,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  priklad3B.vcxproj -> C:\Users\Matres\source\repos\priklad3B\Debug\priklad3B.exe
